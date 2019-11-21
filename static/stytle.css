@@ -1,0 +1,27 @@
+body{
+    background-image: url("images/index.jpeg");
+    overflow: hidden;
+    background-size: cover;
+    opacity: 0.8;
+}
+h1{
+    color: blue;
+}
+
+#content{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+
+#signup{
+    height: auto;
+    width: auto;
+}
+
+#signup,input{
+    width: auto;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}

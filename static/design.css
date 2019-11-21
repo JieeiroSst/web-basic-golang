@@ -1,0 +1,46 @@
+body{
+    background-image: url("images/index1.jpeg");
+}
+
+#cotent-main{
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+
+.center{
+    text-align: center;
+    width: min-content;
+    height: min-content;
+}
+.siaber-left{
+    width: 240px;
+    float:left;
+    margin-right: 30px;
+    background-color: white;
+}
+
+.siaber-left ul{
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+    size: 20px;
+    }
+
+.siaber-left li {
+    float: left;
+    margin: 0 1.15em;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.siaber-left li a{
+    display: block;
+    horiz-align: left;
+}
+
+.center-content{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
